@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "JZE-Xploit™",
   "version": "1.0.0",
-  "description": "Xbot for whatsapp online with termux",
+  "description": "JZE-Xploit™ and TRI-Xploit™ for whatsapp online with termux",
   "main": "index.js",
   "directories": {
     "lib": "lib"
